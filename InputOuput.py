@@ -21,3 +21,6 @@ print("Your name in title case is : ", name.title())
 #program about input the name of user and output its name in reverse order.
 name = input("Please enter the name of the user :")
 print("Your name in reverse order is : ", name[:: -1])
+
+name = input("Please enter user name:")
+print("your name is ", name)
