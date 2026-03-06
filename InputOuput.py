@@ -24,3 +24,7 @@ print("Your name in reverse order is : ", name[:: -1])
 
 name = input("Please enter user name:")
 print("your name is ", name)
+
+
+classname = input("Please enter user classname:")
+print("your name is ", classname)
